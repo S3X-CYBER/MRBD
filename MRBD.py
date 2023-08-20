@@ -1,2 +1,2 @@
-from MRBD64 import MR_morshed
+from MRBD32 import MR_morshed
 MR_morshed()
