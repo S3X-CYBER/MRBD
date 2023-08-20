@@ -16,16 +16,16 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from MRBD64 import menu
+        from MRBD64 import MR_morshed
  
-        menu()
+        MR_morshed()
  
  
  
 elif bit == "32bit":
  
-        from MRBD32 import menu
+        from MRBD32 import MR_morshed
  
  
-        menu()
+        MR_morshed()
  
