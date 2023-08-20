@@ -1,1 +1,2 @@
-from MRBD import
+from MRBD import MR_morshed
+MR_morshed()
